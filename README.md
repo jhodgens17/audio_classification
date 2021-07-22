@@ -1,1 +1,3 @@
 # audio_classification
+This repo contains the First Simple Model (FSM) for an audio classification project (as well as several other draft Python notebooks).
+*To be updated as project continues...
